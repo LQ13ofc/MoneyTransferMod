@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpI9bi8KbBI=",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\source\\repos\\MoneyTransferMod\\MoneyTransferMod\\MoneyTransferMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.4.0\\pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

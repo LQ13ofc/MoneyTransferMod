@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Money Transfer Mod",
+  "Author": "LQ13ofc",
+  "Version": "1.0.0",
+  "Description": "Transfer money using the 'V' key.",
+  "UniqueID": "LQ13ofc.MoneyTransferMod",
+  "EntryDll": "MoneyTransferMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

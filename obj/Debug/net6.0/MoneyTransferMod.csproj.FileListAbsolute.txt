@@ -1,0 +1,11 @@
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\bin\Debug\net6.0\MoneyTransferMod.deps.json
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\bin\Debug\net6.0\MoneyTransferMod.dll
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\bin\Debug\net6.0\MoneyTransferMod.pdb
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\MoneyTransferMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\MoneyTransferMod.AssemblyInfoInputs.cache
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\MoneyTransferMod.AssemblyInfo.cs
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\MoneyTransferMod.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\MoneyTransferMod.dll
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\refint\MoneyTransferMod.dll
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\MoneyTransferMod.pdb
+D:\Visual Studio\source\repos\MoneyTransferMod\MoneyTransferMod\obj\Debug\net6.0\ref\MoneyTransferMod.dll
